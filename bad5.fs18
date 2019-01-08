@@ -1,0 +1,11 @@
+void
+let x = 1
+let y = 1
+begin
+  let x = 1
+  begin
+    let w = 1
+    print ( x + w ) :
+  end
+  print ( w ) :
+end
